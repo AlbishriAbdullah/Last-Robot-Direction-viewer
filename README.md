@@ -16,5 +16,9 @@ Output:
 
 ![image](https://github.com/AlbishriAbdullah/Last-Robot-Direction-viewer/assets/152159098/9fc6ddbb-0f9b-4444-9946-44a20a68aac8)
 
+Direction Database:
+
+![image](https://github.com/AlbishriAbdullah/Last-Robot-Direction-viewer/assets/152159098/a9629157-3a85-4e7a-ab59-67ce23c00715)
+
 
 
